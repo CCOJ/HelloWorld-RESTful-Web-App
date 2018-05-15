@@ -1,3 +1,5 @@
+Guide from https://spring.io/guides/gs/rest-service/
+
 My first RESTful Service Application that demonstrates a basic HelloWorld program
 
 "HelloWorld/build/libs/" for an executable .jar file

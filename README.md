@@ -1,4 +1,4 @@
-First RESTful Service Application that demonstrates a basic HelloWorld program
+My first RESTful Service Application that demonstrates a basic HelloWorld program
 
 "HelloWorld/build/libs/" for an executable .jar file
 
